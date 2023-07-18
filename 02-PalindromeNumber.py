@@ -13,6 +13,8 @@ class Solution:
 
         return reversed_num == x
 
+# solution 2
+
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
